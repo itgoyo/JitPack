@@ -1,4 +1,4 @@
-# 把自己写的library开源库提交到JitPack供他人使用
+### 把自己写的library开源库提交到JitPack供他人使用(切记,代理一定要取消)
 
 - 首先打开AndroidStudio —— New Project —— 一直next
 
